@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <h1><b>Hello_backEnd</b></h1>
+  <h3><b>Hello_BackEnd Project README Template</b></h3>
 
 </div>
 
@@ -10,28 +8,28 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Hello_backEnd\] ](#-Hello_backEnd-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Run test](#run-test)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-backEnd <a name="about-project"></a>
+# 📖 [Hello_backEnd] <a name="about-project"></a>
 
-[Hello_backEnd] is a simple app generating greets.
+**[Hello_backEnd]** is a simple app generating greets.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,95 +37,70 @@
 
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li>Ruby on Rails</li>
-  </ul>
+  <summary>Ruby</summary>
+  <summary>ROR</summary>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>localhost</li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>PostgreSQL</li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+- **[Rails ]**
+- **[Random quotes API ]**
 
-- **[Keep track of all your recipes and ingredients]**
-- **[Create recipes, and generate shopping lists]**
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
 To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
-- You'll need any code editor 
+In order to run this project you need: 
+
+-Commands: npm install
 
 ### Setup
-
-Clone this repository to your desired folder:
-
-```sh
-  git clone https://github.com/ikoote1/Recipe-App/tree/styling
-  cd recipe-app
-```
+* git clone https://github.com/hasnatali1947/Hello_backEnd.git
+* git clone https://github.com/hasnatali1947/Hello_frontEnd.git
+* cd Hello_backEnd
+* git checkout development
 
 ### Install
+-Command: install Ruby
+-Command: gem install rails
+- [OFFICIAL](https://rubyinstaller.org/downloads/)
 
-Install this project with:
 
-```sh
-  bundle install
-  rails db:create
-  rails db:migrate
-```
+### Run test
+-Command: Run through IRB / Vs Code
+-Command: rails s
 
-### Usage
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To run the project, execute the following command:
-
-```sh
-  rails server
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```sh
-  rails db:migrate RAILS_ENV=test
-  rspec
-```
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Hasnat Ali**
 
-- GitHub: [Hasnat Ali](https://github.com/hasnatali1947)
-- LinkedIn: [ikenna_richard](https://www.linkedin.com/in/hasnattali/)
+- GitHub: [@Hasnat_Ali](https://github.com/AbbasSarwar)
+- Twitter: [@Abbas_sDev](https://twitter.com/Abbas_sDev)
+- LinkedIn: [Abbas-Sarwar](https://www.linkedin.com/in/abbas-sarwar-4a0b16257/)
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Improve UI design]**
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
+- [ ] **[Advance Features ]**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -135,28 +108,31 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can give it a star!
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
+If you like my Hello_backEnd Project project kindly comment or Follow me on LinkedIn, Twitter & twitter and always Your feedback will be really appreciated I have created issue if you want to share.
+Thanks. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thanks Microverse for this learning opportunity.
-<p align="right">(<a href="#readme-top"></a>)</p>
+I would like to thank you Miroverse community.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](/MIT.md) licensed.
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
