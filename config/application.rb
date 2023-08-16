@@ -13,12 +13,9 @@ module HelloBackend
     # CORS configuration
     config.middleware.insert_before 0, Rack::Cors do
       allow do
-        origins 'http://localhost:5173' # Update with your React frontend's URL
-
-        resource '/api/v1/*',
-          headers: :any,
-          methods: [:get, :post, :put, :patch, :delete, :options, :head],
-          credentials: true
+        origins 'http://localhost:3001' # The origin of your React app
+        resource '*', headers: :any,
+                      methods: %i[get post put patch delete options]
       end
     end
 
